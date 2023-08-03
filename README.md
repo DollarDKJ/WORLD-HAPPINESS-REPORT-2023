@@ -1,5 +1,6 @@
 # WORLD-HAPPINESS-REPORT-2023
-![Screenshot WHR](https://github.com/DollarDKJ/WORLD-HAPPINESS-REPORT-2023/assets/81152387/084e6582-02fc-4f20-b5cb-50fccbdaf04f)
+![WHR](https://github.com/DollarDKJ/WORLD-HAPPINESS-REPORT-2023/assets/81152387/fb37f0e7-ec33-4b88-8a64-ddb3c620b28f)
+
 
 # Introduction
 The World Happiness Report gained significant attention and interest from policymakers, researchers, and the general public since its first publication in 2012. Happiness and well-being became important topics for governments and organizations worldwide. It has been over ten years since the first World Happiness Report was published. And it is exactly ten years since the United Nations General Assembly adopted Resolution 66/281, proclaiming 20 March to be observed annually as International Day of Happiness. Since then, more and more people have come to believe that our success as countries should be judged by the happiness of our people. There is also a growing consensus about how happiness should be measured. This consensus means that national happiness can now become an operational objective for governments.
